@@ -1,5 +1,5 @@
 # React
- Order Burger with React
+ Order Burger with React-Redux
 
 # install
 npm install
